@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Default",
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["ES2024"],
+    "module": "ESNext",
+    "declaration": true,
+    "declarationMap": false,
+    "declarationDir": "dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Bundler",
+    "outDir": "dist"
+  }
+}

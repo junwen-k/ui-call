@@ -1,0 +1,45 @@
+{
+  "name": "@ui-call/react",
+  "description": "React UI call store for managing async, stackable user interactions.",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "turbo watch build",
+    "build": "tsup",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@ui-call/core": "workspace:*"
+  },
+  "devDependencies": {
+    "@ungap/with-resolvers": "catalog:",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "catalog:",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@use-ask/typescript-config": "workspace:*",
+    "@vitejs/plugin-react": "^4.6.0",
+    "@vitest/coverage-v8": "catalog:",
+    "happy-dom": "^18.0.1",
+    "tsup": "catalog:",
+    "vitest": "catalog:"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0",
+    "react-dom": "^18.0.0 || ^19.0.0"
+  }
+}

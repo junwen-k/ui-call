@@ -1,0 +1,33 @@
+{
+  "name": "@ui-call/core",
+  "description": "Imperative UI call store for managing async, stackable user interactions across frameworks.",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "turbo watch build",
+    "build": "tsup",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/node": "catalog:",
+    "@ungap/with-resolvers": "catalog:",
+    "@use-ask/typescript-config": "workspace:*",
+    "@vitest/coverage-v8": "catalog:",
+    "tsup": "catalog:",
+    "vitest": "catalog:"
+  }
+}
