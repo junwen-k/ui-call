@@ -36,7 +36,7 @@
     "@testing-library/preact": "^3.2.4",
     "@types/node": "catalog:",
     "@ungap/with-resolvers": "catalog:",
-    "@use-ask/typescript-config": "workspace:*",
+    "@ui-call/typescript-config": "workspace:*",
     "@vitest/coverage-v8": "catalog:",
     "happy-dom": "^18.0.1",
     "tsup": "catalog:",

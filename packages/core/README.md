@@ -151,4 +151,4 @@ Use the `call.pending` boolean to apply your enter/exit animation classes.
 
 ## Acknowledgments
 
-This library is the successor to my original [use-ask](https://github.com/junwen-k/use-ask) library, heavily inspired by the elegant design of [react-call](https://github.com/desko27/react-call) by [@desko27](https://github.com/desko27).
+This library is the successor to my original [ui-call](https://github.com/junwen-k/ui-call) library, heavily inspired by the elegant design of [react-call](https://github.com/desko27/react-call) by [@desko27](https://github.com/desko27).

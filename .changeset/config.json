@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@3.0.0/schema.json",
-  "changelog": ["@changesets/changelog-github", { "repo": "junwen-k/use-ask" }],
+  "changelog": ["@changesets/changelog-github", { "repo": "junwen-k/ui-call" }],
   "commit": false,
   "fixed": [],
   "linked": [],

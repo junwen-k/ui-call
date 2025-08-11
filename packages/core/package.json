@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/node": "catalog:",
     "@ungap/with-resolvers": "catalog:",
-    "@use-ask/typescript-config": "workspace:*",
+    "@ui-call/typescript-config": "workspace:*",
     "@vitest/coverage-v8": "catalog:",
     "tsup": "catalog:",
     "vitest": "catalog:"

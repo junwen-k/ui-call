@@ -31,7 +31,7 @@
     "@sveltejs/vite-plugin-svelte": "^6.1.0",
     "@types/node": "catalog:",
     "@ungap/with-resolvers": "catalog:",
-    "@use-ask/typescript-config": "workspace:*",
+    "@ui-call/typescript-config": "workspace:*",
     "@vitest/browser": "catalog:",
     "@vitest/coverage-v8": "catalog:",
     "playwright": "^1.53.0",

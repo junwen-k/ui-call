@@ -31,7 +31,7 @@
     "@types/node": "catalog:",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
-    "@use-ask/typescript-config": "workspace:*",
+    "@ui-call/typescript-config": "workspace:*",
     "@vitejs/plugin-react": "^4.6.0",
     "@vitest/coverage-v8": "catalog:",
     "happy-dom": "^18.0.1",
