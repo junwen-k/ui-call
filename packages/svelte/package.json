@@ -55,7 +55,7 @@
     "@ui-call/typescript-config": "workspace:*",
     "@vitest/browser": "catalog:",
     "@vitest/coverage-v8": "catalog:",
-    "playwright": "^1.53.0",
+    "playwright": "catalog:",
     "tsup": "catalog:",
     "vitest": "catalog:",
     "vitest-browser-svelte": "^0.1.0"
