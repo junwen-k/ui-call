@@ -1,4 +1,4 @@
-![@ui-call's Logo](../../docs/@ui-call.svg) ![Svelte's Logo](./docs/svelte.svg)
+![@ui-call's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/docs/%40ui-call.svg) ![Svelte's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/packages/svelte/docs/svelte.svg)
 
 # @ui-call/svelte
 

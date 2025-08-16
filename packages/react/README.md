@@ -1,4 +1,4 @@
-![@ui-call's Logo](../../docs/@ui-call.svg) ![React's Logo](./docs/react.svg)
+![@ui-call's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/docs/%40ui-call.svg) ![React's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/packages/react/docs/react.svg)
 
 # @ui-call/react
 

@@ -1,4 +1,4 @@
-![@ui-call's Logo](../../docs/@ui-call.svg) ![Solid's Logo](./docs/solid.svg)
+![@ui-call's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/docs/%40ui-call.svg) ![Solid's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/packages/solid/docs/solid.svg)
 
 # @ui-call/solid
 

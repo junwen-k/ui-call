@@ -1,4 +1,4 @@
-![@ui-call's Logo](../../docs/@ui-call.svg) ![Vue's Logo](./docs/vue.svg)
+![@ui-call's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/docs/%40ui-call.svg) ![Vue's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/packages/vue/docs/vue.svg)
 
 # @ui-call/vue
 

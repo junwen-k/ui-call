@@ -1,4 +1,4 @@
-![@ui-call's Logo](../../docs/@ui-call.svg) ![Preact's Logo](./docs/preact.svg)
+![@ui-call's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/docs/%40ui-call.svg) ![Preact's Logo](https://raw.githubusercontent.com/junwen-k/ui-call/refs/heads/main/packages/preact/docs/preact.svg)
 
 # @ui-call/preact
 
