@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@preact/signals": "^2.2.1",
-    "@ui-call/preact": "workspace:*",
+    "@ui-call/preact": "^0.1.0",
     "preact": "^10.25.3",
     "preact-iso": "^2.9.2",
     "preact-render-to-string": "^6.5.13"

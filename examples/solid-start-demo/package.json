@@ -9,7 +9,7 @@
   "dependencies": {
     "@kobalte/core": "^0.13.11",
     "@solidjs/start": "^1.1.0",
-    "@ui-call/solid": "workspace:*",
+    "@ui-call/solid": "^0.1.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "solid-js": "^1.9.5",
