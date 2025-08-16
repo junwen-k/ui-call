@@ -1,8 +1,7 @@
 {
   "name": "@ui-call/vue",
   "description": "Promise-based call store binding for Vue with composables to build imperative UI interactions like confirm dialogs, toasts, modals, and more.",
-  "version": "1.0.0",
-  "private": true,
+  "version": "0.0.0",
   "type": "module",
   "keywords": [
     "ui",

@@ -1,8 +1,7 @@
 {
   "name": "@ui-call/core",
   "description": "Framework-agnostic promise-based call store for building imperative UI interactions like confirm dialogs, toasts, modals, and more.",
-  "version": "1.0.0",
-  "private": true,
+  "version": "0.0.0",
   "type": "module",
   "keywords": [
     "ui",
