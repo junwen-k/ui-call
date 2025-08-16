@@ -1,7 +1,7 @@
 {
   "name": "@ui-call/svelte",
   "description": "Promise-based call store binding for Svelte to build imperative UI interactions like confirm dialogs, toasts, modals, and more.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "keywords": [
     "ui",
