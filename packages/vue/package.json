@@ -1,9 +1,30 @@
 {
   "name": "@ui-call/vue",
-  "description": "Vue UI call store for managing async, stackable user interactions.",
+  "description": "Promise-based call store binding for Vue with composables to build imperative UI interactions like confirm dialogs, toasts, modals, and more.",
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "keywords": [
+    "ui",
+    "vue",
+    "vue3",
+    "imperative",
+    "callable",
+    "composables",
+    "promise",
+    "typescript",
+    "interaction"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/junwen-k/ui-call#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junwen-k/ui-call.git",
+    "directory": "packages/vue"
+  },
+  "bugs": {
+    "url": "https://github.com/junwen-k/ui-call/issues"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",

@@ -1,9 +1,29 @@
 {
   "name": "@ui-call/core",
-  "description": "Imperative UI call store for managing async, stackable user interactions across frameworks.",
+  "description": "Framework-agnostic promise-based call store for building imperative UI interactions like confirm dialogs, toasts, modals, and more.",
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "keywords": [
+    "ui",
+    "imperative",
+    "callable",
+    "promise",
+    "async",
+    "typescript",
+    "headless",
+    "interaction"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/junwen-k/ui-call#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junwen-k/ui-call.git",
+    "directory": "packages/core"
+  },
+  "bugs": {
+    "url": "https://github.com/junwen-k/ui-call/issues"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",

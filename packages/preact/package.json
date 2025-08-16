@@ -1,9 +1,30 @@
 {
   "name": "@ui-call/preact",
-  "description": "Preact UI call store for managing async, stackable user interactions.",
+  "description": "Promise-based call store binding for Preact with lightweight hooks and optional first-class @preact/signals support to build imperative UI interactions like confirm dialogs, toasts, modals, and more.",
   "version": "1.0.0",
   "private": true,
   "type": "module",
+  "keywords": [
+    "ui",
+    "preact",
+    "imperative",
+    "callable",
+    "hooks",
+    "signals",
+    "promise",
+    "typescript",
+    "interaction"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/junwen-k/ui-call#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/junwen-k/ui-call.git",
+    "directory": "packages/preact"
+  },
+  "bugs": {
+    "url": "https://github.com/junwen-k/ui-call/issues"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
