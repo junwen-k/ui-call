@@ -1,5 +1,6 @@
-import vue from "@vitejs/plugin-vue";
-import { defineConfig } from "vitest/config";
+import vue from '@vitejs/plugin-vue';
+import { playwright } from '@vitest/browser-playwright';
+import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
   plugins: [vue()],
@@ -8,17 +9,17 @@ export default defineConfig({
       enabled: true,
       headless: true,
       screenshotFailures: false,
-      provider: "playwright",
-      instances: [{ browser: "chromium" }],
+      provider: playwright(),
+      instances: [{ browser: 'chromium' }],
     },
     coverage: {
       enabled: true,
-      provider: "v8",
+      provider: 'v8',
     },
     typecheck: {
       enabled: true,
-      tsconfig: "./tsconfig.test.json",
+      tsconfig: './tsconfig.test.json',
     },
-    setupFiles: ["vitest-browser-vue"],
+    setupFiles: ['vitest-browser-vue'],
   },
 });

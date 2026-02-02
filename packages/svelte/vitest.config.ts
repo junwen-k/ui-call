@@ -1,5 +1,6 @@
-import { svelte } from "@sveltejs/vite-plugin-svelte";
-import { defineConfig } from "vitest/config";
+import { svelte } from '@sveltejs/vite-plugin-svelte';
+import { playwright } from '@vitest/browser-playwright';
+import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
   plugins: [svelte()],
@@ -8,17 +9,17 @@ export default defineConfig({
       enabled: true,
       headless: true,
       screenshotFailures: false,
-      provider: "playwright",
-      instances: [{ browser: "chromium" }],
+      provider: playwright(),
+      instances: [{ browser: 'chromium' }],
     },
     coverage: {
       enabled: true,
-      provider: "v8",
+      provider: 'v8',
     },
     typecheck: {
       enabled: true,
-      tsconfig: "./tsconfig.test.json",
+      tsconfig: './tsconfig.test.json',
     },
-    setupFiles: ["vitest-browser-svelte"],
+    setupFiles: ['vitest-browser-svelte'],
   },
 });

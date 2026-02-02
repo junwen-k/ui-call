@@ -4,7 +4,7 @@ packages:
 catalog:
   '@types/node': ^25.1.0
   '@ungap/with-resolvers': ^0.1.0
-  '@vitest/browser': ^4.0.18
+  '@vitest/browser-playwright': ^4.0.18
   '@vitest/coverage-v8': ^4.0.18
   playwright: ^1.58.1
   tsup: ^8.5.1

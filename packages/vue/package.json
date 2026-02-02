@@ -49,7 +49,7 @@
     "@types/node": "catalog:",
     "@ungap/with-resolvers": "catalog:",
     "@ui-call/typescript-config": "workspace:*",
-    "@vitest/browser": "catalog:",
+    "@vitest/browser-playwright": "catalog:",
     "@vitest/coverage-v8": "catalog:",
     "@vitejs/plugin-vue": "6.0.3",
     "playwright": "catalog:",
