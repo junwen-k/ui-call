@@ -46,18 +46,18 @@
     "@ui-call/core": "workspace:*"
   },
   "devDependencies": {
-    "svelte": "^5.36.8",
-    "svelte-check": "^4.2.2",
-    "@sveltejs/vite-plugin-svelte": "^6.1.0",
+    "svelte": "^5.49.1",
+    "svelte-check": "^4.3.6",
+    "@sveltejs/vite-plugin-svelte": "^6.2.4",
     "@types/node": "catalog:",
     "@ungap/with-resolvers": "catalog:",
     "@ui-call/typescript-config": "workspace:*",
-    "@vitest/browser": "catalog:",
+    "@vitest/browser-playwright": "catalog:",
     "@vitest/coverage-v8": "catalog:",
     "playwright": "catalog:",
     "tsup": "catalog:",
     "vitest": "catalog:",
-    "vitest-browser-svelte": "^0.1.0"
+    "vitest-browser-svelte": "^2.0.2"
   },
   "peerDependencies": {
     "svelte": "^5.7.0"

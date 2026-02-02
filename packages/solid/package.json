@@ -48,16 +48,16 @@
   },
   "devDependencies": {
     "@solidjs/testing-library": "^0.8.10",
-    "@testing-library/jest-dom": "^6.6.4",
+    "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/user-event": "^14.6.1",
     "@types/node": "catalog:",
     "@ungap/with-resolvers": "catalog:",
     "@ui-call/typescript-config": "workspace:*",
     "@vitest/coverage-v8": "catalog:",
-    "happy-dom": "^18.0.1",
-    "jsdom": "^26.1.0",
+    "happy-dom": "^20.4.0",
+    "jsdom": "^27.4.0",
     "tsup": "catalog:",
-    "vite-plugin-solid": "^2.11.8",
+    "vite-plugin-solid": "^2.11.10",
     "vitest": "catalog:"
   },
   "peerDependencies": {

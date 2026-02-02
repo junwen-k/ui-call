@@ -49,13 +49,13 @@
     "@types/node": "catalog:",
     "@ungap/with-resolvers": "catalog:",
     "@ui-call/typescript-config": "workspace:*",
-    "@vitest/browser": "catalog:",
+    "@vitest/browser-playwright": "catalog:",
     "@vitest/coverage-v8": "catalog:",
-    "@vitejs/plugin-vue": "6.0.0",
+    "@vitejs/plugin-vue": "6.0.3",
     "playwright": "catalog:",
     "tsup": "catalog:",
     "vitest": "catalog:",
-    "vitest-browser-vue": "^1.0.0"
+    "vitest-browser-vue": "^2.0.2"
   },
   "peerDependencies": {
     "vue": "^3.5.17"
