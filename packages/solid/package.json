@@ -54,8 +54,8 @@
     "@ungap/with-resolvers": "catalog:",
     "@ui-call/typescript-config": "workspace:*",
     "@vitest/coverage-v8": "catalog:",
-    "happy-dom": "^20.4.0",
-    "jsdom": "^27.4.0",
+    "happy-dom": "^20.5.3",
+    "jsdom": "^28.0.0",
     "tsup": "catalog:",
     "vite-plugin-solid": "^2.11.10",
     "vitest": "catalog:"
