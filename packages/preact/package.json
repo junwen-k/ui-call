@@ -48,7 +48,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@preact/signals": "^2.6.2",
+    "@preact/signals": "^2.8.1",
     "@ui-call/core": "workspace:*"
   },
   "devDependencies": {
@@ -58,12 +58,12 @@
     "@ungap/with-resolvers": "catalog:",
     "@ui-call/typescript-config": "workspace:*",
     "@vitest/coverage-v8": "catalog:",
-    "happy-dom": "^20.4.0",
+    "happy-dom": "^20.7.0",
     "tsup": "catalog:",
     "vitest": "catalog:"
   },
   "peerDependencies": {
-    "@preact/signals": "^2.6.2",
+    "@preact/signals": "^2.8.1",
     "preact": "^10.0.0"
   },
   "peerDependenciesMeta": {
