@@ -48,22 +48,22 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@preact/signals": "^2.6.2",
+    "@preact/signals": "^2.8.2",
     "@ui-call/core": "workspace:*"
   },
   "devDependencies": {
-    "@preact/preset-vite": "^2.10.3",
+    "@preact/preset-vite": "^2.10.5",
     "@testing-library/preact": "^3.2.4",
     "@types/node": "catalog:",
     "@ungap/with-resolvers": "catalog:",
     "@ui-call/typescript-config": "workspace:*",
     "@vitest/coverage-v8": "catalog:",
-    "happy-dom": "^20.4.0",
+    "happy-dom": "^20.8.4",
     "tsup": "catalog:",
     "vitest": "catalog:"
   },
   "peerDependencies": {
-    "@preact/signals": "^2.6.2",
+    "@preact/signals": "^2.8.2",
     "preact": "^10.0.0"
   },
   "peerDependenciesMeta": {
