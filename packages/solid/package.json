@@ -54,10 +54,10 @@
     "@ungap/with-resolvers": "catalog:",
     "@ui-call/typescript-config": "workspace:*",
     "@vitest/coverage-v8": "catalog:",
-    "happy-dom": "^20.4.0",
-    "jsdom": "^27.4.0",
+    "happy-dom": "^20.9.0",
+    "jsdom": "^29.0.2",
     "tsup": "catalog:",
-    "vite-plugin-solid": "^2.11.10",
+    "vite-plugin-solid": "^2.11.12",
     "vitest": "catalog:"
   },
   "peerDependencies": {
